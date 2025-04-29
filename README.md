@@ -1,4 +1,4 @@
-# Minimum Toplam Süre Hesaplama Üretim Projesi
+# Minimum Toplam Süre Hesaplama Üretim Planlama Projesi
 
 Bu proje, belirli işlerin farklı makinelerde işlenme sürelerini ve makineler arasındaki geçiş maliyetlerini dikkate alarak, tüm işlerin tamamlanması için gereken minimum toplam süreyi hesaplayan bir Java uygulaması içerir.
 
